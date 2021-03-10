@@ -28,7 +28,7 @@
  
  ## <div style="text-align: justify"> Métodos </div> 
  ####  <p> <div style="text-align: justify"> O tratamento e a normalização do dataset foi realizado no notebook [tratamento_dados.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/). Foram seguidas as etapas abaixo:
- <il>
+ <ul>
   <li> eliminação colunas (classes) vazias;
   <li> identificação dos tipos dos dados (qualitativo ordinal/nominal, quantitativo discreto);
   <li> limpeza de dados duplicados;
@@ -36,7 +36,7 @@
   <li> criação da classe que integra cidade de nascimento com cidade onde foi registrada a candidatura;
   <li> identificação/limpeza de dados nulos;
   <li> 
-  </il> </div></p>
+  </ul> </div></p>
   
  #### <p> <div style="text-align: justify"> Abaixo os tipos de dados que compõem o dataset após a primeira limpeza
  
