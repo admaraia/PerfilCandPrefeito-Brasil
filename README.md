@@ -34,10 +34,9 @@
   <li> limpeza de dados duplicados;
   <li> criação da classe faixa etária de acordo utilizando a classificação do IBGE;
   <li> criação da classe que integra cidade de nascimento com cidade onde foi registrada a candidatura;
-  <li> identificação/limpeza de dados nulos;
-  <li> 
+  <li> criação da classe que informa se a candidatura foi realizada com coligação partidária ou não;
+  <li> identificação/limpeza de dados nulos.
   </ul> </div></p>
   
- #### <p> <div style="text-align: justify"> Abaixo os tipos de dados que compõem o dataset após a primeira limpeza
- 
+ #### <p> <div style="text-align: justify"> A análise exploratória do dataset foi realizado no notebook [tratamento_dados.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/). Foram seguidas as etapas abaixo:
 
