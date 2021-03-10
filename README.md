@@ -39,5 +39,5 @@
   <li> exportação do database tratado e separados por Regiões N, NE, CO, S, SE.
   </ul> </div></p>
   
- #### <p> <div style="text-align: justify"> A análise exploratória do dataset foi realizado no notebook [tratamento_dados.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/). Foram seguidas as etapas abaixo:
+ #### <p> <div style="text-align: justify"> A análise exploratória do dataset foi realizado no notebook [analise_exploratoria.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/). Foram seguidas as etapas abaixo:
 
