@@ -26,29 +26,18 @@
  #### <p> <div style="text-align: justify"> A fonte primária dos dados é o [Repositório de dados Eleitorais do TSE](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1).</div></p>
  ####  <p> <div style="text-align: justify">Os arquivos com os dados dos candidatos nos anos de 2012, 2016 e 2018 foram baixados do repositório do TSE, realizada a limpeza e integração dos datasets, deixando apenas os dados referentes aos candidatos a prefeito aptos. O arquivo base para as demais fases do trabalho é [base_20122020.xls](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/base_20122020.xlsx) disponível neste repositório.</div></p>
  
-   ## <div style="text-align: justify"> Métodos </div> 
- ####  <p> <div style="text-align: justify"> O tratamento e a normalização do dataset foi realizado no [tratamento_dados.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/).</div></p>
- 
+ ## <div style="text-align: justify"> Métodos </div> 
+ ####  <p> <div style="text-align: justify"> O tratamento e a normalização do dataset foi realizado no notebook [tratamento_dados.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/). Foram seguidas as etapas abaixo:</div></p>
+ <il>
+  <li> eliminação colunas (classes) vazias;
+  <li> identificação dos tipos dos dados (qualitativo ordinal/nominal, quantitativo discreto);
+  <li> limpeza de dados duplicados;
+  <li> criação da classe faixa etária de acordo utilizando a classificação do IBGE;
+  <li> criação da classe que integra cidade de nascimento com cidade onde foi registrada a candidatura;
+  <li> identificação/limpeza de dados nulos;
+  <li> 
+  </il> 
+  
  #### <p> <div style="text-align: justify"> Abaixo os tipos de dados que compõem o dataset após a primeira limpeza
  
-<il>
- Tipos dos dados que compõem o dataset:
-<li>ANO_ELEICAO   ------------------------->        Quantitativa discreto
-<li>ABRANGENCIA   ------------------------>           Qualitativa nominal
-<li>ESTADO       ------------------------------->            Qualitativa nominal
-<li>MUNICIPIO     --------------------------->           Qualitativa nominal
-<li>CARGO          -------------------------------->          Qualitativa nominal
-<li>PARTIDO         ------------------------------>         Qualitativa nominal
-<li>COLIGACAO           --------------------------->     Qualitativa nominal
-<li>ESTADO_NASCIMENTO  --------------->      Qualitativa nominal
-<li>MUNICIPIO_NASCIMENTO------------>    Qualitativa nominal
-<li>DT_NASCIMENTO      --------------------->      Qualitativa ordinal
-<li>GENERO           ------------------------------->        Qualitativa nominal
-<li>GRAU_INSTRUCAO   -------------------->        Qualitativa ordinal
-<li>ESTADO_CIVIL      ------------------------->       Qualitativa nominal
-<li>COR_RACA          ---------------------------->       Qualitativa nominal
-<li>SITUACAO_FINAL    --------------------->       Qualitativa nominal
-<li>REELEICAO         ---------------------------->       Qualitativa nominal
-<li>IDADE            --------------------------------->        Quantitativa discreto
-<li>FAIXA_ETARIA_IBGE  ------------------->     Qualitativa ordinal
-  </il></div></p>
+
