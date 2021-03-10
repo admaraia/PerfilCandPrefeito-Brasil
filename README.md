@@ -27,7 +27,7 @@
  ####  <p> <div style="text-align: justify">Os arquivos com os dados dos candidatos nos anos de 2012, 2016 e 2018 foram baixados do repositório do TSE, realizada a limpeza e integração dos datasets, deixando apenas os dados referentes aos candidatos a prefeito aptos. O arquivo base para as demais fases do trabalho é [base_20122020.xls](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/base_20122020.xlsx) disponível neste repositório.</div></p>
  
    ## <div style="text-align: justify"> Métodos </div> 
- ####  <p> <div style="text-align: justify"> O tratamento e a normalização do dataset foi realizado no [tratamento_dados.ipynb] (https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/).</div></p>
+ ####  <p> <div style="text-align: justify"> O tratamento e a normalização do dataset foi realizado no [tratamento_dados.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/).</div></p>
  
  #### <p> <div style="text-align: justify"> Abaixo os tipos de dados que compõem o dataset após a primeira limpeza
  
