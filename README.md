@@ -24,4 +24,4 @@
   
   ## <div style="text-align: justify"> Dados e Métodos</div> 
  #### <p> <div style="text-align: justify"> A fonte primária dos dados é o [Repositório de dados Eleitorais do TSE](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1).</div></p>
- ####  <p> <div style="text-align: justify">Os arquivos com os dados dos candidatos nos anos de 2012, 2016 e 2018 foram baixados do repositório do TSE, realizada a limpeza nos datasets deixando apenas os dados referentes aos candidatos a prefeito aptos; finalmente integrando os datasets em apenas um aquivo [candidatos.csv](github.com/admaraia/PerfilCandPrefeito-Brasil/). </div></p>
+ ####  <p> <div style="text-align: justify">Os arquivos com os dados dos candidatos nos anos de 2012, 2016 e 2018 foram baixados do repositório do TSE, realizada a limpeza nos datasets deixando apenas os dados referentes aos candidatos a prefeito aptos; finalmente integrando os datasets em apenas um aquivo [base_20122020.xls](https://github.com/admaraia/PerfilCandPrefeito-Brasil.git/) </div></p>
