@@ -35,7 +35,8 @@
   <li> criação da classe faixa etária de acordo utilizando a classificação do IBGE;
   <li> criação da classe que integra cidade de nascimento com cidade onde foi registrada a candidatura;
   <li> criação da classe que informa se a candidatura foi realizada com coligação partidária ou não;
-  <li> identificação/limpeza de dados nulos.
+  <li> identificação e tratamento de dados nulos;
+  <li> exportação do database tratado e separados por Regiões N, NE, CO, S, SE.
   </ul> </div></p>
   
  #### <p> <div style="text-align: justify"> A análise exploratória do dataset foi realizado no notebook [tratamento_dados.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/). Foram seguidas as etapas abaixo:
