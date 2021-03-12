@@ -43,9 +43,9 @@
  <ul>
   <li> explorar o dataset buscando responder:
     <ul>
-     <li> 1. Como é a distribuição dos candidatos por Gênero no país?
-     <li> 2. Qual a Região que registrou o maior número de candidatas mulheres?
-     <li> 3. Como é a distribuição dos candidatos por Raça no país? 
+ #####    <li> Como é a distribuição dos candidatos por Gênero no país?
+     <li> Qual a Região que registrou o maior número de candidatas mulheres?
+     <li> Como é a distribuição dos candidatos por Raça no país? 
     </ul>
   <li> identificação dos tipos dos dados (qualitativo ordinal/nominal, quantitativo discreto);
   <li> limpeza de dados duplicados;
