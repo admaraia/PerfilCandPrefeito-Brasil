@@ -55,8 +55,7 @@
   <li> Avaliar os resultados dos classificadores.
   </ul> </div></p>
   
-  #### <p> <div style="text-align: justify"> Nesta etapa foram utilizadas técnicas de machine learning para implementar um ****modelo de classificação **** para o perfil de candidado, o qual a partir do perfil inserido ele estimará a probabilidade deste perfil obter sucesso no pleito. 
-  A implementação do modelo foi realizada no notebook [modelo_preditivo_peril.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/), foram seguidas as etapas abaixo:
+  #### <p> <div style="text-align: justify"> Nesta etapa foram utilizadas técnicas de machine learning para implementar um <b> modelo de classificação </b> para o perfil de candidado, o qual a partir do perfil inserido ele estimará a probabilidade deste perfil obter sucesso no pleito. A implementação do modelo foi realizada no notebook [modelo_preditivo_peril.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/), foram seguidas as etapas abaixo:
   
  <ul>
   <li> xxxx;
