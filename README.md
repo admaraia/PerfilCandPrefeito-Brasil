@@ -46,7 +46,7 @@
      <li> Como é a distribuição dos candidatos por Gênero no país?
      <li> Qual a Região que registrou o maior número de candidatas mulheres?
      <li> Como é a distribuição dos candidatos por Raça no país?
-     <li> Como está distribuído o grau de instrução dos candidatos?
+     <li> Qual é o grau de instrução dos candidatos?
      <li> Qual a faixa etária predominante entre os candidatos?
      <li> Existe alguma região que aprensenta discrepância entre das características Raça, Gênero, Faixa etária e escolaridade no país?
      <li> Existe diferença entre os perfis dos candidatos quando separamos por gênero?
