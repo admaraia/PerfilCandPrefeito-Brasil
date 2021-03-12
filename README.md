@@ -55,10 +55,18 @@
   <li> Avaliar os resultados dos classificadores.
   </ul> </div></p>
   
-  #### <p> <div style="text-align: justify"> Nesta etapa foram utilizadas técnicas de machine learning para implementar um <b> modelo de classificação </b> para o perfil de candidado, o qual a partir do perfil inserido ele estimará a probabilidade deste perfil obter sucesso no pleito. A implementação do modelo foi realizada no notebook [modelo_preditivo_peril.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/), foram seguidas as etapas abaixo:
+  #### <p> <div style="text-align: justify"> Nesta etapa foram utilizadas técnicas de machine learning para implementar um <b> modelo de classificação </b> para o perfil de candidado, o qual a partir do perfil inserido ele estimará a probabilidade deste perfil obter sucesso no pleito. A implementação do modelo foi realizada no notebook [modelo_preditivo_peril.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/). As etapas da implementação do modelo preditivo foram:
   
  <ul>
   <li> xxxx;
   <li> xs;
   <li> yyyyy.
   </ul> </div></p>
+  
+  ## <div style="text-align: justify"> Resultados e Conclusões </div> 
+ #### <p> <div style="text-align: justify"> A partidas das etapas descritas acima foi possível partir de um conjunto de dados disponível no site do governo federal, tratar os dados, analisar e gerar informações para a sociedade sobre o perfil dos candidatos a prefeito no país. Assim, como foi possível implementar uma ferramenta (modelo preditivo) baseada em dados, que ao inserir informações a respeito do seu perfil é informa a probabilidade de sucesso no pleito para prefeito.
+De acordo com os resultados o perfil dos candidatos a prefeito no Brasil é xxxxxxxxxxxxxxxxxxxxxxxxx, identificamos que há diferença nas características do perfil quanto ao gênero, sendo o perfil xxxxx masculino e yyyyyy feminino.
+  Quando regionazimos foi observado as seguintes discrepâncias entre as regiões do país xxxxxx e xxxxxx. Considerando que as regiões mais populosas são NE e SE, as quais apresentam um peso maior quando analisamos um perfil geral do país.
+  Os modelos de classificação utilizados foram xxxx e yyyyy, que apresentam as métricas cccc e ddddd, logo foi escolhido o resultado o melhor xxxxxx que produz um bom resultado quando analisado com as demais informações geradas.
+  A partir do modelo de classificação, foi implementado a componente preditiva, objetivando indentificar a probalidade de um perfil obter sucesso no pleito para prefeito. As características do modelo são apresentadas abaixo, assim como as avaliações.
+  </div></p>
