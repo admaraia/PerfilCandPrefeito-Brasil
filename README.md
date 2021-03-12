@@ -47,9 +47,10 @@
      <li> Qual a Região que registrou o maior número de candidatas mulheres?
      <li> Como é a distribuição dos candidatos por Raça no país?
      <li> Como está distribuído o grau de instrução dos candidatos?
-     <li> Existe alguma região que aprensenta discrepância?
      <li> Qual a faixa etária predominante entre os candidatos?
-     <li> Há diferença de gênero entre as faixa etária com maior número de candidatos? 
+     <li> Existe alguma região que aprensenta discrepância entre das características Raça, Gênero, Faixa etária e escolaridade no país?
+     <li> Existe diferença entre os perfis dos candidatos quando separamos por gênero?
+     <li> Aplicar algoritmo de classificação arvore e knn para identificar o perfil dos candidatos.
     </ul>
   <li> identificação dos tipos dos dados (qualitativo ordinal/nominal, quantitativo discreto);
   <li> limpeza de dados duplicados;
