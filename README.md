@@ -50,13 +50,15 @@
      <li> Qual a faixa etária predominante entre os candidatos?
      <li> Existe alguma região que aprensenta discrepância entre das características Raça, Gênero, Faixa etária e escolaridade no país?
      <li> Existe diferença entre os perfis dos candidatos quando separamos por gênero?
-     <li> Aplicar algoritmo de classificação arvore e knn para identificar o perfil dos candidatos.
     </ul>
-  <li> identificação dos tipos dos dados (qualitativo ordinal/nominal, quantitativo discreto);
-  <li> limpeza de dados duplicados;
-  <li> criação da classe faixa etária de acordo utilizando a classificação do IBGE;
-  <li> criação da classe que integra cidade de nascimento com cidade onde foi registrada a candidatura;
-  <li> criação da classe que informa se a candidatura foi realizada com coligação partidária ou não;
-  <li> identificação e tratamento de dados nulos;
-  <li> exportação do database tratado e separados por Regiões N, NE, CO, S, SE.
+  <li> Aplicar algoritmo de classificação arvore e knn para identificar o perfil dos candidatos;
+  <li> Avaliar os resultados dos classificadores.
+  </ul> </div></p>
+  
+  #### <p> <div style="text-align: justify"> Aplicar os técnicas de machine learning para implementar um modelos de classificação de perfil de candidado, informando que a partido do perfil inserido qual a probabilidade deste perfil obter sucesso no pleito. Para a implementação do modelo, foram seguidas as etapas abaixo:
+  
+ <ul>
+  <li> xxxx;
+  <li> xs;
+  <li> yyyyy.
   </ul> </div></p>
