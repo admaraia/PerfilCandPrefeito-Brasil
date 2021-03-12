@@ -14,9 +14,9 @@
 ## <div style="text-align: justify"> Objetivo</div> 
 #### <p> <div style="text-align: justify"> Aplicar técnicas de mineração de dados e aprendizado de máquina para as campanhas eleitorais para prefeito no período entre 2010 e 2020, para:
   <ul>
-  <li> identificar o perfil dos candidatos a prefeito em todas as regiões do país;
-  <li> avaliar se há relação entre as características do perfil do candidato com a conquista do pleito;
-  <li> analisar os perfis dos candidatos separados pelas Regiões Brasileiras; 
+  <li> identificar o perfil dos candidatos a prefeito no país;
+  <li> avaliar a relação entre o perfil do candidato e a conquista do pleito;
+  <li> analisar os perfis dos candidatos de acordo com as Regiões Brasileiras; 
   <li> elaborar modelo preditivo com base no perfil do candidato, para indicar a “probabilidade” de  sucesso por Região do país.
   </ul>
   </div></p>
@@ -41,7 +41,12 @@
   
  #### <p> <div style="text-align: justify"> A análise exploratória (EDA) do dataset foi realizado no notebook [analise_exploratoria.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/). Foram seguidas as etapas abaixo:
  <ul>
-  <li> eliminação colunas (classes) vazias;
+  <li> explorar o dataset buscando responder:
+    <ul>
+     <li> 1. Como é a distribuição dos candidatos por Gênero no país?
+     <li> 2. Qual a Região que registrou o maior número de candidatas mulheres?
+     <li> 3. Como é a distribuição dos candidatos por Raça no país? 
+    </ul>
   <li> identificação dos tipos dos dados (qualitativo ordinal/nominal, quantitativo discreto);
   <li> limpeza de dados duplicados;
   <li> criação da classe faixa etária de acordo utilizando a classificação do IBGE;
