@@ -27,7 +27,7 @@
  ####  <p> <div style="text-align: justify">Os arquivos com os dados dos candidatos nos anos de 2012, 2016 e 2018 foram baixados do repositório do TSE, realizada a limpeza e integração dos datasets, deixando apenas os dados referentes aos candidatos a prefeito aptos. O arquivo base para as demais fases do trabalho é [base_20122020.xls](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/base_20122020.xlsx) disponível neste repositório.</div></p>
  
  ## <div style="text-align: justify"> Métodos </div> 
- ####  <p> <div style="text-align: justify"> O tratamento e a normalização do dataset foi realizado no notebook [tratamento_dados.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/tratamento_dados.ipynb). Foram seguidas as etapas abaixo:
+ ####  <p> <div style="text-align: justify"> O tratamento/transformação do dataset foi realizado no notebook [tratamento_dados.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/tratamento_dados.ipynb). Foram seguidas as etapas abaixo:
  <ul>
   <li> eliminação colunas (classes) vazias;
   <li> identificação dos tipos dos dados (qualitativo ordinal/nominal, quantitativo discreto);
@@ -51,7 +51,7 @@
      <li> Existe alguma região que aprensenta discrepância entre das características Raça, Gênero, Faixa etária e escolaridade no país?
      <li> Existe diferença entre os perfis dos candidatos quando separamos por gênero?
     </ul>
-  <li> Aplicar algoritmo de classificação arvore e knn para identificar o perfil dos candidatos;
+  <li> Com base nas respostas dos itens acima, foi realizado mais um tratamento no dataset (detalhado no notebook) para aplicar algoritmo de classificação arvore e knn para identificar o perfil dos candidatos;
   <li> Avaliar os resultados dos classificadores.
   </ul> </div></p>
   
