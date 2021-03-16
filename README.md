@@ -36,10 +36,10 @@
   <li> criação da classe que integra cidade de nascimento com cidade onde foi registrada a candidatura;
   <li> criação da classe que informa se a candidatura foi realizada com coligação partidária ou não;
   <li> identificação e tratamento de dados nulos;
-  <li> exportação do database tratado (base_Brasil.csv) e database separado por Regiões N, NE, CO, S, SE.
+  <li> exportação do database tratado (base_Brasil.csv).
   </ul> </div></p>
   
- #### <p> <div style="text-align: justify"> A análise exploratória (EDA) do dataset foi realizado no notebook [analise_exploratoria.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/). Foram seguidas as etapas abaixo:
+ #### <p> <div style="text-align: justify"> A análise exploratória (EDA) do dataset foi realizado no notebook [analise_exploratoria_final.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/analise_exploratoria_final.ipynb). Foram seguidas as etapas abaixo:
  <ul>
   <li> explorar o dataset buscando responder:
     <ul>
@@ -51,11 +51,10 @@
      <li> Existe alguma região que aprensenta discrepância entre das características Raça, Gênero, Faixa etária e escolaridade no país?
      <li> Existe diferença entre os perfis dos candidatos quando separamos por gênero?
     </ul>
-  <li> Com base nas respostas dos itens acima, foi realizado mais um tratamento no dataset (detalhado no notebook) para aplicar algoritmo de classificação arvore e knn para identificar o perfil dos candidatos;
-  <li> Avaliar os resultados dos classificadores.
+  <li> Com base nas respostas dos itens acima, foi realizado mais um tratamento no dataset (detalhado no notebook) para aplicar no modelo machine learning para classificar o perfil dos candidatos;
   </ul> </div></p>
   
-  #### <p> <div style="text-align: justify"> Nesta etapa foram utilizadas técnicas de machine learning para implementar um <b> modelo de classificação </b> para o perfil de candidado, o qual a partir do perfil inserido ele estimará a probabilidade deste perfil obter sucesso no pleito. A implementação do modelo foi realizada no notebook [modelo_preditivo_peril.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/). As etapas da implementação do modelo preditivo foram:
+  #### <p> <div style="text-align: justify"> Nesta etapa foram utilizadas técnicas de machine learning para implementar um <b> modelo de classificação </b> para o perfil de candidado, o qual partindo do input de perfil ele será classificado como Eleito ou Não Eleito. Os testes e o todo o processo de implementação e avaliação do modelo foi realizada no notebook [modelagem_classPerfil.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/modelagem_classPerfil.ipynb). As etapas da implementação do modelo preditivo foram:
   
  <ul>
   <li> xxxx;
