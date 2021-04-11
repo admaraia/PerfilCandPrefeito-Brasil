@@ -68,6 +68,17 @@
   
 ## <div style="text-align: justify"> Resultados e Conclusões </div>
 
+#### As análises realizadas para as duas últimas eleições municipais no Brasil, indicaram que o perfil predominante dos candidatos a prefeito foi: homem branco, com idade entre 40 e 49 anos, casado e com ensino superior completo. Não foram observadas diferenças significativas nos perfis dos candidatos quando analisados de forma regionalizada.
+#### Com relação ao gênero embora as mulheres sejam um número bem menor que os homens na disputa pela chefia do Poder Executivo municipal, o perfil é similar, ou seja, mulheres brancas, com idade entre 40 e 49 anos, casadas e com ensino superior completo. Foi observado, que embora o estado civil dominante do perfil principal seja de mulheres casadas, há uma proporção maior de mulheres solteiras (37%) disputando o pleito que homens (24%).
+#### Algumas características regionais foram observadas, e estão descritas abaixo:
+<ul>
+  <li> na Região Nordeste os candidatos apresentaram uma maior miscigenação, embora a predominância de brancos ainda tenha sido ligeiramente maior que de pardo, e também foi observado um número significativo de candidatos, superior à média Nacional, na faixa dos 30 a 39 anos.
+
+ <li> o destaque da Região Sudeste foi o número de candidatos superior à média Nacional com idade igual ou superior a 60 anos.
+ <li> a Região Sul apresentou candidatos superior à média Nacional com idade entre 50-59 anos.
+ <li> as Regiões Centro-Oeste e Norte apresentaram sinais mais fortes da migração no país, ou seja, mais de 70% dos candidatos a prefeito não nasceram na cidade onde pleitearam o cargo. 
+ </ul>
+
 #### Após analisar os resultados dos modelos, verifica-se que todos apresentaram acurácia semelhante, 0,68, porém o modelo Floresta Aleatória foi mais eficiente em classificar os candidatos ELEITOS, com precisão de 41%. 
 #### Em linhas gerais, os resultados deste trabalho mostraram as características predominantes do perfil dos candidatos a prefeito no Brasil, considerando as duas últimas eleições, como também, forneceu uma visão mais detalhada do perfil do candidato por gênero e Regiões do Brasil. Os modelos implementados, conseguiram classificar o perfil do candidato com até 68% de acurácia, sendo uma ferramenta interessante para as entidades que trabalham na área eleitoral, pois a partir de perfil de entrada dos candidatos poderemos classificá-lo com um porcentagem a chance de ser  ELEITO ou NÃO ELEITO. Embora, os resultados indiquem que ainda há ne-cessidade de melhorias nos modelos, um caminho interessante foi aberto para estu-dos futuros.
  
