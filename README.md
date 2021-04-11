@@ -54,7 +54,7 @@
   <li> Com base nas respostas dos itens acima, foi realizado mais um tratamento no dataset (detalhado no notebook) para aplicar no modelo machine learning para classificar o perfil dos candidatos;
   </ul> </div></p>
   
-  #### <p> <div style="text-align: justify"> Nesta etapa foram utilizadas técnicas de machine learning para implementar um <b> modelo de classificação </b> para o perfil de candidado, o qual partindo do input de perfil ele será classificado como Eleito ou Não Eleito. Os testes e o todo o processo de implementação e avaliação do modelo foi realizada no notebook [modelagem_classPerfil.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/Modelagem_perfil.ipynb). As etapas da implementação do modelo preditivo foram:
+  #### <p> <div style="text-align: justify"> Nesta etapa foram utilizadas técnicas de machine learning para implementar um <b> modelo de classificação </b> para o perfil de candidado, o qual partindo do input de perfil ele será classificado como Eleito ou Não Eleito. Os testes e o todo o processo de implementação e avaliação do modelo foi realizada no notebook [Modelagem_perfil.ipynb](https://github.com/admaraia/PerfilCandPrefeito-Brasil/blob/main/Modelagem_perfil.ipynb). As etapas da implementação do modelo preditivo foram:
   
  <ul>
   <li> transformação dos atributos no tipo category;;
